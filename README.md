@@ -1,6 +1,6 @@
 # Airplane Tracking System
 
-⚠️ ## IMPORTANT NOTICE
+⚠️ IMPORTANT NOTICE
 This is a private project. For access to videos and labeled images, please contact:
 nesliedayurek@gmail.com
 
