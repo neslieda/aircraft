@@ -1,5 +1,9 @@
 # Airplane Tracking System
 
+⚠️ ## IMPORTANT NOTICE
+This is a private project. For access to videos and labeled images, please contact:
+nesliedayurek@gmail.com
+
 ## Overview
 A sophisticated computer vision system leveraging YOLO (You Only Look Once) object detection to track and monitor aircraft movements and passenger bridge operations at airports. The system provides real-time analytics for aircraft parking duration, bridge connection times, and overall runway occupancy.
 
